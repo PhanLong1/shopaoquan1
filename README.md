@@ -1,3 +1,4 @@
 # shopaoquan1
 1 Tạo readme 
-2 website clone 
+
+2 tạo website templace 
